@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumeet Chandel
-- :smiley: Currently working as Web Developer at Tata Consultancy Services
+- :smiley: Currently working as Web Developer at CES
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React
 - 📫 You can reach me at sumeetchandel321@gmail.com
