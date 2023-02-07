@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumeet Chandel
 - :smiley: Currently working as Web Developer at CES
 - 👀 I’m interested in Web Developement
-- 🌱 Currently working with React, Typescript and reduc
+- 🌱 Working with React, Typescript and Redux
 - 📫 You can reach me at sumeetchandel321@gmail.com
 
 <!---
