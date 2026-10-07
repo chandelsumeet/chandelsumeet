@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumeet Chandel
-- :smiley: Currently working as Web Developer at CES
+- :smiley: Currently working as Developer at Publicis Sapient
 - 👀 I’m interested in Web Developement
-- 🌱 Working with React, Typescript and Redux
+- 🌱 Working with React, Typescript , Redux , Node and AWS
 - 📫 You can reach me at sumeetchandel321@gmail.com
 
 <!---
